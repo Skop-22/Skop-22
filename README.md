@@ -17,8 +17,10 @@ En este repositorio muestro mi trabajo a lo largo de la universidad, mi trabajo 
 
 > uno de mis hobbies favoritos es programar en c
 > one of my favorite hobbies is programming in c
-![Video programacion en c](https://www.youtube.com/watch?v=xf4laWV3oKI&t=185s&ab_channel=SkopBeltran)
+
+[Video programacion en c](https://www.youtube.com/watch?v=xf4laWV3oKI&t=185s&ab_channel=SkopBeltran)
 ---
 ---
 > XD
-![Video programacion en c](https://www.youtube.com/watch?v=TaUKayCbkx0&t=23s&ab_channel=SkopBeltran)
+
+[Video programacion en c](https://www.youtube.com/watch?v=TaUKayCbkx0&t=23s&ab_channel=SkopBeltran)
