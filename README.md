@@ -19,9 +19,9 @@ En este repositorio muestro mi trabajo a lo largo de la universidad, mi trabajo 
 
 > **one of my favorite hobbies is programming in c**
 
-[Video programacion en c](https://www.youtube.com/watch?v=xf4laWV3oKI&t=185s&ab_channel=SkopBeltran)
+[Video programacion en c](https://www.youtube.com/watch?v=xf4laWV3oKI&t=185s&ab_channel=SkopBeltran "Generador de Expresiones de 3 niveles de precedencia")
 
 ---
 ---
 
-[Video programacion en c](https://www.youtube.com/watch?v=TaUKayCbkx0&t=23s&ab_channel=SkopBeltran)
+[Video programacion en c](https://www.youtube.com/watch?v=TaUKayCbkx0&t=23s&ab_channel=SkopBeltran "Menu basico en c")
