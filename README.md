@@ -11,7 +11,7 @@ En este repositorio muestro mi trabajo a lo largo de la universidad, mi trabajo 
 - 🌱 I’m currently learning Reacjs,PySide6, Python, javascript
 - 🤔 I’m looking for help with QPropertyAnimation 
 - 💬 Ask me about c, c++, python
-- 📫 How to reach me: skopflores@gmail.com
+- 📫 How to reach me: [Overflow](https://stackoverflow.com/users/17256486/skop-beltran)
 - 😄 Pronouns: Skop XD
 - ⚡ Fun fact: 
 
