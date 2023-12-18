@@ -7,13 +7,12 @@ In this repository I show my work throughout the university, my work in differen
 En este repositorio muestro mi trabajo a lo largo de la universidad, mi trabajo en diferentes materias y algunos proyectos personales de PySide6 que me llamaron la atención, básicamente mis recuerdos que compartí con mis compañeros.
 
 
-- 🔭 I’m currently working on PySide6, c++, c, Python, Java
-- 🌱 I’m currently learning Reacjs,PySide6, Python, javascript
+- 🔭 I’m currently working on PySide6, c++, c, Python, javascript, css, html, Laravel, 
+- 🌱 I’m currently learning vue, PySide6, Laravel,
 - 🤔 I’m looking for help with Reacjs
-- 💬 Ask me about c, c++, python
-- 📫 How to reach me: [Overflow](https://stackoverflow.com/users/17256486/skop-beltran)
-- 😄 Pronouns: Skop XD
-- ⚡ Fun fact: 
+- 💬 Ask me about c, c++, python, php, javascript, html, css
+- 📫 How to reach me: skop@gmail.com
+- ⚡ Fun fact: Laravel, Vue
 
 > **uno de mis hobbies favoritos es programar en c**
 
